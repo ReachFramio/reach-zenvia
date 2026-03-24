@@ -51,7 +51,7 @@ const BenefitsSection = () => {
           Benefits of REACH Zenvia
         </h2>
         <p className="text-center text-muted-foreground mb-12 max-w-2xl mx-auto">
-          Best In Class Zenvia Software
+          Best In Class Layout and DTP Software for Footwear Design
         </p>
         
         <div className="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">

@@ -31,7 +31,7 @@ const Footer = () => {
               <span className="text-primary">REACH</span> Zenvia
             </Link>
             <p className="text-gray-300 max-w-md">
-              Best In Class Zenvia Software 
+              Best In Class Layout and DTP Software for Footwear Design
             </p>
 
 

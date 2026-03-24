@@ -90,7 +90,7 @@ const Header = () => {
 
           {/* TAGLINE */}
           <p className="mt-3 text-base text-gray-600 text-center lg:text-right">
-            REACH Zenvia for Footwear Design positions your footwear brand to present, specify, and sell collections with the same visual and technical rigor as leading global players.
+            Best In Class Layout and DTP Software for Footwear Design
           </p>
 
         </div>
